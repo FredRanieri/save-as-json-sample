@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/fred/Documents/projects/json-sample/json-sample.csproj": {}
+    "/home/fred/Documents/projects/save-as-json-sample/json-sample/json-sample.csproj": {}
   },
   "projects": {
-    "/home/fred/Documents/projects/json-sample/json-sample.csproj": {
+    "/home/fred/Documents/projects/save-as-json-sample/json-sample/json-sample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/fred/Documents/projects/json-sample/json-sample.csproj",
+        "projectUniqueName": "/home/fred/Documents/projects/save-as-json-sample/json-sample/json-sample.csproj",
         "projectName": "json-sample",
-        "projectPath": "/home/fred/Documents/projects/json-sample/json-sample.csproj",
+        "projectPath": "/home/fred/Documents/projects/save-as-json-sample/json-sample/json-sample.csproj",
         "packagesPath": "/home/fred/.nuget/packages/",
-        "outputPath": "/home/fred/Documents/projects/json-sample/obj/",
+        "outputPath": "/home/fred/Documents/projects/save-as-json-sample/json-sample/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/share/dotnet/sdk/NuGetFallbackFolder"
