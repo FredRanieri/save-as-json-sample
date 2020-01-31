@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/fred/Documents/projects/json-sample/json-sample.csproj": {}
+  },
+  "projects": {
+    "/home/fred/Documents/projects/json-sample/json-sample.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/fred/Documents/projects/json-sample/json-sample.csproj",
+        "projectName": "json-sample",
+        "projectPath": "/home/fred/Documents/projects/json-sample/json-sample.csproj",
+        "packagesPath": "/home/fred/.nuget/packages/",
+        "outputPath": "/home/fred/Documents/projects/json-sample/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/fred/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[11.0.2, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

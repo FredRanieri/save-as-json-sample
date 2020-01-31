@@ -1,0 +1,11 @@
+/home/fred/Documents/projects/json-sample/bin/Debug/netcoreapp2.1/json-sample.deps.json
+/home/fred/Documents/projects/json-sample/bin/Debug/netcoreapp2.1/json-sample.runtimeconfig.json
+/home/fred/Documents/projects/json-sample/bin/Debug/netcoreapp2.1/json-sample.runtimeconfig.dev.json
+/home/fred/Documents/projects/json-sample/bin/Debug/netcoreapp2.1/json-sample.dll
+/home/fred/Documents/projects/json-sample/bin/Debug/netcoreapp2.1/json-sample.pdb
+/home/fred/Documents/projects/json-sample/obj/Debug/netcoreapp2.1/json-sample.csprojAssemblyReference.cache
+/home/fred/Documents/projects/json-sample/obj/Debug/netcoreapp2.1/json-sample.csproj.CoreCompileInputs.cache
+/home/fred/Documents/projects/json-sample/obj/Debug/netcoreapp2.1/json-sample.AssemblyInfoInputs.cache
+/home/fred/Documents/projects/json-sample/obj/Debug/netcoreapp2.1/json-sample.AssemblyInfo.cs
+/home/fred/Documents/projects/json-sample/obj/Debug/netcoreapp2.1/json-sample.dll
+/home/fred/Documents/projects/json-sample/obj/Debug/netcoreapp2.1/json-sample.pdb
